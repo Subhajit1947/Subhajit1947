@@ -53,7 +53,7 @@ Databases & Tools
 
   You can view or download my resume using the link below:
 
-  [📄 View My Resume]()
+  [📄 View My Resume](https://github.com/Subhajit1947/Subhajit1947/blob/main/18_08_subhajit_das.pdf)
 
 ## 🔍 I'm Open to
 
