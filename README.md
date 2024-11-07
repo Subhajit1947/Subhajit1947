@@ -6,10 +6,13 @@ I'm a passionate software developer from Kolkata, with a strong foundation in Py
 
 ## 🌟 What I Do
 
-Full Stack Development: Experienced in building applications end-to-end using the MERN stack and more.
-Backend Engineering: Skilled in creating robust APIs and backend systems with Express and Node.js.
-Database Management: Proficient in SQL, MongoDB, and database schema design.
-Frontend Development: Adept with React and Redux for dynamic, responsive UIs.
+**Full Stack Development**: Experienced in building applications end-to-end using the MERN stack and more.
+
+**Backend Engineering**: Skilled in creating robust APIs and backend systems with Express and Node.js.
+
+**Database Management**: Proficient in SQL, MongoDB, and database schema design.
+
+**Frontend Development**: Adept with React and Redux for dynamic, responsive UIs.
 
 ## 👨‍💻 Tech Stack
 
