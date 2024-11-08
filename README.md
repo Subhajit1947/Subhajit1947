@@ -29,8 +29,6 @@ Databases & Tools
 
   **B.Tech in Engineering - Netaji Subhash Engineering College, Kolkata**
   
-  CGPA: 8.2 (as of the 6th semester)
-  
   BSc Graduate - Kharagpur College
 
 ## 💼 Projects
