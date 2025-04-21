@@ -36,7 +36,7 @@ Databases & Tools
         Secure role-based authentication, real-time blood availability, donor and blood request management, Razorpay integration for donations, and event management.
         Technologies: React, Node.js, Express, MongoDB, Razorpay.
    
-    [Demo](https://effortless-frangipane-9a1bf8.netlify.app/)
+    [Demo]([https://effortless-frangipane-9a1bf8.netlify.app/](https://bejewelled-faloodeh-d66a7a.netlify.app/))
 
     [Visit GitHub](https://github.com/Subhajit1947/Blooddonar-and-Bloodbank-realtime)
 
