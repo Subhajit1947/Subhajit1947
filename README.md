@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub! 🚀
 
-I am an aspiring **Data Engineer** from Kolkata with strong skills in **Python, SQL, ETL pipelines, Data Modeling, and Django backend development**.  
+I am an aspiring **Data Engineer** with strong skills in **Python, SQL, ETL pipelines, Data Modeling, and Django backend development**.  
 I completed my B.Tech in **2025** and I’m now focused on building real-world data engineering projects and preparing for a full-time Data Engineer role.
 
 ---
